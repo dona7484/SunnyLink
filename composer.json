@@ -1,0 +1,18 @@
+{
+    "name": "dona7/sunny-link",
+    "description": "Application web pour les seniors",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dona7\\SunnyLink\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dona",
+            "email": "dona7484@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
